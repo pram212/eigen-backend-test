@@ -1,6 +1,6 @@
 # Backend Test Case
 ## Setup
-### 1. clone this repository
+### clone this repository
 ```
 git clone https://github.com/pram212/eigen-tech-test.git
 ```
