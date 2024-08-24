@@ -1,0 +1,2 @@
+## Setup
+- clone this repo
